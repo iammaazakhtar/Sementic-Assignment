@@ -1,0 +1,15 @@
+﻿Semantics Assignment
+ 
+Q1: What are the new things introduced in HML5! 
+Ans-
+Html5 have audio,video and canvas tag. 
+Html5 has some extra tag other than div and span. 
+Like header,footer,article,section,etc 
+Html5 also support SEO. 
+Q2: What are semantic tags? Give a couple of examples.
+Ans- semantic tag are tag that describe the which type of content they have Like, header,footer,main,nav,section,article,aside,details,mark,etc.. 
+Q3: List some uses of semantic tags. 
+Ans 1.our code is more clean and understable 
+2.helps in SEO 
+3.simplified styling
+Full Stack Web Development
